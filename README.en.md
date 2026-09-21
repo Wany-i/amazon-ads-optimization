@@ -83,7 +83,7 @@ Our break-even / target ACoS framework **matches the official one**; we simply i
 Place this directory in your agent's skills folder (`SKILL.md` must stay at the root):
 
 ```bash
-git clone https://github.com/<owner>/amazon-ads-optimization.git \
+git clone https://github.com/Wany-i/amazon-ads-optimization.git \
   ~/.agents/skills/amazon-ads-optimization
 ```
 
@@ -170,3 +170,4 @@ Especially welcome: adding sources for items marked "empirical / single-source",
 - [SECURITY.md](SECURITY.md)
 
 > Not affiliated with or endorsed by Amazon.com, Inc. Amazon and related marks belong to their respective owners.
+

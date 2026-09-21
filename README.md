@@ -105,11 +105,11 @@ node scripts/ads_opt.mjs keywords --seed "portable blender" --site us
 
 ```bash
 # Claude Code / Codex / OpenClaw 等通用 Agent Skills 目录
-git clone https://github.com/<owner>/amazon-ads-optimization.git \
+git clone https://github.com/Wany-i/amazon-ads-optimization.git \
   ~/.agents/skills/amazon-ads-optimization
 
 # Windows PowerShell
-git clone https://github.com/<owner>/amazon-ads-optimization.git `
+git clone https://github.com/Wany-i/amazon-ads-optimization.git `
   "$env:USERPROFILE\.agents\skills\amazon-ads-optimization"
 ```
 
@@ -239,3 +239,4 @@ amazon-ads-optimization/
 - 安全政策：[SECURITY.md](SECURITY.md)
 
 > 本项目与 Amazon.com, Inc. 无隶属或背书关系。Amazon 及相关商标归其所有者所有。
+
